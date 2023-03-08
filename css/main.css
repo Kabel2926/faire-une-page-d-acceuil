@@ -1,4 +1,4 @@
-    <style>
+
         body {
             background: black;
             color: white;
@@ -7,4 +7,10 @@
         h1 {
             color: yellow;
         }
-    </style>
+
+
+
+      img
+      {
+        max-width: 100%;
+      }
